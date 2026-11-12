@@ -71,6 +71,7 @@ git clone https://github.com/suyeong0627/virtual-vibration-isolation-simulator.g
 cd virtual-vibration-isolation-simulator
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 
 ## 🧠 기술 스택
