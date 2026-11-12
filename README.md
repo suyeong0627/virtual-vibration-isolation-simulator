@@ -73,8 +73,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-🧠 기술 스택
+## 🧠 기술 스택
 Python · Streamlit · NumPy · SciPy · Matplotlib · Hamiltonian Mechanics
 
-📄 라이선스
+## 📄 라이선스
 MIT License
