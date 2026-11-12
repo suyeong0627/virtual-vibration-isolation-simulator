@@ -10,7 +10,7 @@
 
 \## 🔗 라이브 데모
 
-(배포 후 이 자리에 Streamlit Cloud 링크를 넣을 예정입니다)
+👉 **[여기를 클릭해서 바로 체험하기](https://virtual-vibration-sim.streamlit.app)**
 
 
 
